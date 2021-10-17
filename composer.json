@@ -1,5 +1,2 @@
 {
-    "require": {
-        "symfony/apache-pack": "^1.0"
-    }
 }
