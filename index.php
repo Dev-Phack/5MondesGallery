@@ -16,7 +16,7 @@
 <body>
     <?php require_once 'navbar.php'; ?>
 
-    <h2 class="mt-5 text-center head-title">5 MONDES GALLERY</h2>
+    <h2 class="text-center head-title">5 MONDES GALLERY</h2>
     <h2 class="mt-3 text-center head-subtitle">Révélateur de Talents émergents</h2>
 
     <div class="under-slide mt-5">

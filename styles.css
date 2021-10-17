@@ -11,10 +11,14 @@
 @import url("fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf");
 .head {
   background-color: black;
-  height: 180px;
+  height: 150px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
 }
 .head .menu {
-  padding-top: 95px;
+  padding-top: 75px;
 }
 .head .menu .link {
   display: flex;
@@ -44,6 +48,7 @@
   font-family: "Montserrat-Bold";
   font-size: 38px;
   color: #E30613;
+  margin-top: 210px;
 }
 
 .head-subtitle {

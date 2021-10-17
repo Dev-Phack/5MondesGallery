@@ -13,9 +13,13 @@
 
 .head{
     background-color: black;
-    height: 180px;
+    height: 150px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
     .menu{
-      padding-top: 95px;
+      padding-top: 75px;
       .link{
         display: flex;
         justify-content: space-between;
@@ -44,6 +48,7 @@
   font-family: 'Montserrat-Bold';
   font-size: 38px;
   color: #E30613;
+  margin-top: 210px;
 }
 .head-subtitle{
   font-family: 'Montserrat-Medium';
